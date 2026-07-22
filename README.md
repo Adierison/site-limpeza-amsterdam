@@ -1,14 +1,14 @@
-# Site Institucional - Empresa de Limpeza (Amsterdã)
+# Business Website - Cleaning Company (Amsterdam)
 
-Site institucional desenvolvido para uma empresa de serviços de limpeza residencial/comercial em Amsterdã, Holanda. Projeto freelance entregue sob prazo, com foco em apresentar os serviços da empresa e gerar contato com novos clientes.
+Institutional website developed for a residential/commercial cleaning company based in Amsterdam, Netherlands. Freelance project delivered under a tight deadline, focused on showcasing the company's services and generating new client inquiries.
 
-## 🔗 Demo ao vivo
-[Ver site no ar](https://dcncleaningservices.nl)
+## 🔗 Live Demo
+[View live site](https://dcncleaningservices.nl)
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript
 - Vite
-- Desenvolvimento assistido por IA (Figma AI), com ajustes manuais de layout, conteúdo e responsividade
+- AI-assisted development (Figma AI), with manual adjustments for layout, content, and responsiveness
 
-## 📋 Sobre o projeto
-Projeto freelance real, entregue para cliente internacional. Trabalho focado em customização, ajustes de responsividade e adequação de conteúdo ao negócio do cliente, dentro de prazo apertado.
+## 📋 About the Project
+Real freelance project delivered for an international client. Work focused on customization, responsiveness fixes, and content adaptation to fit the client's business, all within a tight deadline.
